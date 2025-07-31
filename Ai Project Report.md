@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# in this format you have to make it like that 60% of work done my manually and 40% with the help of Ai
-
-Here’s your **AI Usage Report** formatted as requested, reflecting a 60% manual and 40% AI-assisted workflow for the ADmyBRAND Insights Dashboard project:
-
 # AI Usage Report
 
 ## AI Tools Used
