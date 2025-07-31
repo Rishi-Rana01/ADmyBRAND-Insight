@@ -2,7 +2,7 @@
 
 This is a modern, responsive dashboard application built with Next.js, ShadCN UI, Tailwind CSS, and Recharts. It provides a visually appealing and interactive interface to monitor key business metrics.
 
-![ADmyBRAND Dashboard Screenshot](https://placehold.co/800x450.png)
+![ADmyBRAND Dashboard Screenshot](https://github.com/Rishi-Rana01/ADmyBRAND-Insight/blob/main/Screenshot%202025-07-31%20150013.png)
 ![ADmyBRAND Dashboard Screenshot](https://placehold.co/800x450.png)
 ![ADmyBRAND Dashboard Screenshot](https://placehold.co/800x450.png)
 
